@@ -1,6 +1,6 @@
 # foltone_drugs_system
 
-Voici un script qui vous permet de créé des drogue à l'infinit.
+Voici un script qui vous permet de créé des drogues à l'infinit.
 
 Here is a script that allows you to create infinite drugs.
 
